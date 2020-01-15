@@ -1,2 +1,12 @@
-# automated-contract-system
-A web application for automating a contract making process
+# Automated Contract System
+A web application for an automated contract making process.
+
+## Technologies
+
+## Features
+
+## App Credentials
+
+## Resources
+
+## Support
