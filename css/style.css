@@ -1,0 +1,94 @@
+body {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 15px;
+  /* background-color: red; */
+}
+
+.nav-bottom {
+  position: fixed;
+  height: 3px;
+  width: 100%;
+  background-color: #827ffe;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  /* height:30px; */
+  /* background-color: #F2F2F2; */
+  /* color: white; */
+  /* text-align: center; */
+}
+
+footer a {
+  font-size: 30px;
+  color: rgb(205, 209, 226);
+  text-decoration: none;
+  margin-left: 20px;
+}
+
+/* header a{
+    color:red;
+  } */
+
+footer a:hover, header a:hover {
+  text-decoration: none !important;
+  color: #827ffe !important;
+}
+
+button:first {
+  margin-right: 10px;
+}
+
+button ion-icon {
+  font-size: 20px;
+  margin: 0px;
+  padding: 0px !important;
+  color: #212529;
+}
+
+.btn-icon {
+  padding: 0px !important;
+  margin-right: 10px;
+}
+
+button ion-icon:hover {
+  color: #827ffe !important;
+}
+
+td>a {
+  text-decoration: none;
+}
+
+.page-item.active .page-link {
+  z-index: 1;
+  color: #fff;
+  background-color: #827ffe;
+  border-color: #827ffe;
+}
+
+#contracts-table th, #contracts-table tr {
+  width: 120px;
+}
+
+#insert_form label {
+  font-weight: bold;
+  font-size: 14px;
+  font-family: 'Quicksand', sans-serif;
+  margin-bottom: 10px;
+}
+
+#insert_form input, #insert_form select, #insert_form text {
+  margin-bottom: 15px;
+}
+
+.btn-update {
+  background-color: #827ffe;
+  color: white;
+}
+
+#view-table label {
+  font-weight: bold;
+}
