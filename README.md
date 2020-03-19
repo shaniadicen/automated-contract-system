@@ -1,12 +1,8 @@
-# Automated Contract System
+# Automated Contract Generator
 A web application for an automated contract making process.
 
 ## Technologies
 
-## Features
-
 ## App Credentials
 
 ## Resources
-
-## Support
